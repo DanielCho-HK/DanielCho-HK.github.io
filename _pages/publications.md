@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Recent Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-Below are some selected publications. You can also find my articles on <u><a href="https://scholar.google.com/citations?user=RvBDhSwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-{% include base_path %}
+---
+## 2022
+- Qianying Liu, Wenyu Guan, Sujian Li, Fei Cheng, Daisuke Kawahara, Sadao Kurohashi:
+RODA: Reverse Operation Based Data Augmentation for Solving Math Word Problems. IEEE ACM Trans. Audio Speech Lang. Process. 30: 1-11 (2022)
 
-{% for post in site.publications %}
-  {% include archive-single.html %}
-{% endfor %}
+## 2021
+- Chiu-Pin Lin, Su-Jian Yang:
+Multiple Scaffolds Used to Support Self-Regulated Learning in Elementary Mathematics Classrooms. Int. J. Online Pedagog. Course Des. 11(4): 1-19 (2021)
+- Xiangyang Li, Yu Xia, Xiang Long, Zheng Li, Sujian Li:
+Exploring Text-Transformers in AAAI 2021 Shared Task: COVID-19 Fake News Detection in English. CONSTRAINT@AAAI 2021: 106-115
+- Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng:
+Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting. ACL/IJCNLP (1) 2021: 5968-5978
+
