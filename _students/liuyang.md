@@ -2,7 +2,7 @@
 name: Yang Liu
 role: Graduated
 email: 
-photo: profile.png
+photo: liuyang.png
 website: https://nlp-yang.github.io/
 ---
 

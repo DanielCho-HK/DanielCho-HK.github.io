@@ -2,7 +2,7 @@
 name: Yizhong Wang
 role: Graduated
 email: 
-photo: profile.png
+photo: yizhong.jpg
 website: https://yizhong-wang.com/
 ---
 
