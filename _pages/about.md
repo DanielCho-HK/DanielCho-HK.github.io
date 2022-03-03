@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Text ANalysis and GENeration Technology Group @ PKU"
+title: "Welcome to PKU-TANGENT Lab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of PKU-TANGENT
+## Introduction
