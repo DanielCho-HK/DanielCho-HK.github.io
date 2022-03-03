@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is the front page of PKU-TANGENT
-test
