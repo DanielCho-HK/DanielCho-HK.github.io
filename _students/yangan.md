@@ -1,8 +1,8 @@
 ---
-name: Yang Liu
+name: An Yang
 role: Graduated
 email: 
 photo: profile.png
-website: https://nlp-yang.github.io/
+website: https://github.com/yangapku
 ---
 
