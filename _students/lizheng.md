@@ -2,6 +2,6 @@
 name: Zheng Li
 role: Undergraduate
 email: 
-photo: profile.png
+photo: lizheng.jpg
 ---
 
