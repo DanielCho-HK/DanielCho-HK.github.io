@@ -1,7 +1,7 @@
 ---
 name: Yifan Song
 role: Phd
-email: 
+email: yfsong@pku.edu.cn
 photo: yifan.jpg
 ---
 
