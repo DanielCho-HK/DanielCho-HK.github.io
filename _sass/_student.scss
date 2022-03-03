@@ -1,0 +1,16 @@
+.staffer {
+  display: flex;
+  margin: 40px;
+
+  .staffer-image {
+    border-radius: 50%;
+    height: 100px;
+    margin-right: 20px;
+  }
+
+  p,
+  .staffer-name {
+    margin: 2px !important;
+  }
+
+}
