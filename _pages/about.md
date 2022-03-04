@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-- Research topics:
--- Text Generation
--- Discourse Parsing
--- Information Extraction
+### Research topics:
+#### Text Generation
+#### Discourse Parsing
+#### Information Extraction
