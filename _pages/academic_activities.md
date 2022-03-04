@@ -4,7 +4,8 @@ title: "Academic Activities"
 permalink: /academicActivities/
 author_profile: true
 ---
-- PC Co-Chair: : CCL 2020
+- PC Co-Chair: : AACL 2022, CCL 2020
+- Workshop Co-Chair: ACL 2022
 - Area Chair (Discourse): : ACL 2020/2019/2017, EMNLP 2020, AACL 2020
 - Publication Chair : NLPCC 2019/2018
 - Childcare Policy & Grant Coordinator: : EMNLP 2019
