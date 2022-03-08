@@ -55,20 +55,12 @@ Chinese Computational Linguistics - 19th China National Conference, CCL 2020, Ha
 Reverse Operation based Data Augmentation for Solving Math Word Problems. CoRR abs/2010.01556 (2020)
 
 ## 2019
-- Yanxin Zhu, Sujian Li, Yongfang Peng:
-Research on duplicate combined forecasting method based on supply chain coordination. Clust. Comput. 22(Supplement): 6621-6632 (2019)
 - Wenyv Guan, Qianying Liu, Guangzhi Han, Bin Wang, Sujian Li:
 An Improved Coarse-to-Fine Method for Solving Generation Tasks. ALTA 2019: 178-185
 - Dehong Ma, Sujian Li, Fangzhao Wu, Xing Xie, Houfeng Wang:
 Exploring Sequence-to-Sequence Learning in Aspect Term Extraction. ACL (1) 2019: 3538-3547
 - An Yang, Quan Wang, Jing Liu, Kai Liu, Yajuan Lyu, Hua Wu, Qiaoqiao She, Sujian Li:
 Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension. ACL (1) 2019: 2346-2357
-- Tao Gu, Sujian Li, Jie Li, Jie Jiao:
-Research on Two-Level Inventory Optimization Algorithm for Repairable Spare Parts Based on Improved Differential Evolution. BIC-TA (1) 2019: 341-354
-- Niantao Xie, Sujian Li, Jinglin Zhao:
-ERCNN: Enhanced Recurrent Convolutional Neural Networks for Learning Sentence Similarity. CCL 2019: 119-130
-- Hong Li, Sujian Li:
-Two-Echelon Location Routing Problem with Multi-fuzzy and Pick-Delivery Model and Algorithm. CSIA 2019: 600-610
 - Lianzhe Huang, Dehong Ma, Sujian Li, Xiaodong Zhang, Houfeng Wang:
 Text Level Graph Neural Network for Text Classification. EMNLP/IJCNLP (1) 2019: 3442-3448
 - Qianying Liu, Wenyv Guan, Sujian Li, Daisuke Kawahara:
@@ -83,14 +75,14 @@ Research on stator current analysis method of induction motor based on local fau
 Beyond Word Attention: Using Segment Attention in Neural Relation Extraction. IJCAI 2019: 5401-5407
 - Chen Shi, Qi Chen, Lei Sha, Hui Xue, Sujian Li, Lintao Zhang, Houfeng Wang:
 We Know What You Will Ask: A Dialogue System for Multi-intent Switch and Prediction. NLPCC (1) 2019: 93-104
-- Chiung-ling Tung, Chiou-hui Chou, Su-jiann Yang, Chiu-Pin Lin:
-Applying the Teach-Back Method and Mobile Technology to Support Elementary Students' Mathematics Problem-Solving Strategies. SETE@ICWL 2019: 10-20
 - Jie Tang, Min-Yen Kan, Dongyan Zhao, Sujian Li, Hongying Zan:
-Natural Language Processing and Chinese Computing - 8th CCF International Conference, NLPCC 2019, Dunhuang, China, October 9-14, 2019, Proceedings, Part I. Lecture Notes in Computer Science 11838, Springer 2019, ISBN 978-3-030-32232-8 
-- Jie Tang, Min-Yen Kan, Dongyan Zhao, Sujian Li, Hongying Zan:
-Natural Language Processing and Chinese Computing - 8th CCF International Conference, NLPCC 2019, Dunhuang, China, October 9-14, 2019, Proceedings, Part II. Lecture Notes in Computer Science 11839, Springer 2019, ISBN 978-3-030-32235-9 
+Natural Language Processing and Chinese Computing - 8th CCF International Conference, NLPCC 2019, Dunhuang, China, October 9-14, 2019, Proceedings, Part I. Lecture Notes in Computer Science 11838, Springer 2019, ISBN 978-3-030-32232-8, ISBN 978-3-030-32235-9 
 - Xin Zhang, An Yang, Sujian Li, Yizhong Wang:
 Machine Reading Comprehension: a Literature Review. CoRR abs/1907.01686 (2019)
+- Liang Wang, Wei Zhao, Ruoyu Jia, Sujian Li, Jingming Liu:
+Denoising based Sequence-to-Sequence Pre-training for Text Generation. CoRR abs/1908.08206 (2019)
+- Bowen Yu, Zhenyu Zhang, Jianlin Su, Yubin Wang, Tingwen Liu, Bin Wang, Sujian Li:
+Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy. CoRR abs/1909.04273 (2019)
 - Tianyi Li, Sujian Li:
 Incorporating Textual Evidence in Visual Storytelling. CoRR abs/1911.09334 (2019)
 - Yi Cheng, Sujian Li:
