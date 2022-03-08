@@ -25,20 +25,12 @@ Unifying Discourse Resources with Dependency Framework. CCL 2021: 257-267
 Cross-Lingual Leveled Reading Based on Language-Invariant Features. EMNLP (Findings) 2021: 2677-2682
 - Xiangyang Li, Zheng Li, Sujian Li, Zhimin Li, Shimin Yang:
 Knowledge Enhanced Transformers System for Claim Stance Classification. NLPCC (2) 2021: 614-623
-- Yi Cheng, Sujian Li, Yueyuan Li:
-Unifying Discourse Resources with Dependency Framework. CoRR abs/2101.00167 (2021)
-- Xiangyang Li, Yu Xia, Xiang Long, Zheng Li, Sujian Li:
-Exploring Text-transformers in AAAI 2021 Shared Task: COVID-19 Fake News Detection in English. CoRR abs/2101.02359 (2021)
 - Lianzhe Huang, Peiyi Wang, Sujian Li, Tianyu Liu, Xiaodong Zhang, Zhicong Cheng, Dawei Yin, Houfeng Wang:
 First Target and Opinion then Polarity: Enhancing Target-opinion Correlation for Aspect Sentiment Triplet Extraction. CoRR abs/2102.08549 (2021)
 - Wenhao Wu, Sujian Li:
 A Comprehensive Attempt to Research Statement Generation. CoRR abs/2104.14339 (2021)
 - Qingxiu Dong, Ziwei Qin, Heming Xia, Tian Feng, Shoujie Tong, Haoran Meng, Lin Xu, Tianyu Liu, Zuifang Sui, Weidong Zhan, Sujian Li, Zhongyu Wei:
 Premise-based Multimodal Reasoning: A Human-like Cognitive Process. CoRR abs/2105.07122 (2021)
-- Yi Cheng, Siyao Li, Bang Liu, Ruihui Zhao, Sujian Li, Chenghua Lin, Yefeng Zheng:
-Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting. CoRR abs/2105.11698 (2021)
-- Wenhao Wu, Wei Li, Xinyan Xiao, Jiachen Liu, Ziqiang Cao, Sujian Li, Hua Wu, Haifeng Wang:
-BASS: Boosting Abstractive Summarization with Unified Semantic Graph. CoRR abs/2105.12041 (2021)
 
 ## 2020
 - Kai Liu, Xin Liu, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She:
@@ -59,10 +51,6 @@ Evaluating Text Coherence at Sentence and Paragraph Levels. LREC 2020: 1695-1703
 Enhanced-RCNN: An Efficient Method for Learning Sentence Similarity. WWW 2020: 2500-2506
 - Maosong Sun, Sujian Li, Yue Zhang, Yang Liu, Shizhu He, Gaoqi Rao:
 Chinese Computational Linguistics - 19th China National Conference, CCL 2020, Hainan, China, October 30 - November 1, 2020, Proceedings. Lecture Notes in Computer Science 12522, Springer 2020, ISBN 978-3-030-63030-0 
-- Sennan Liu, Shuang Zeng, Sujian Li:
-Evaluating Text Coherence at Sentence and Paragraph Levels. CoRR abs/2006.03221 (2020)
-- Qianying Liu, Sicong Jiang, Yizhong Wang, Sujian Li:
-LiveQA: A Question Answering Dataset over Sports Live. CoRR abs/2010.00526 (2020)
 - Qianying Liu, Wenyu Guan, Sujian Li, Fei Cheng, Daisuke Kawahara, Sadao Kurohashi:
 Reverse Operation based Data Augmentation for Solving Math Word Problems. CoRR abs/2010.01556 (2020)
 
@@ -103,14 +91,6 @@ Natural Language Processing and Chinese Computing - 8th CCF International Confer
 Natural Language Processing and Chinese Computing - 8th CCF International Conference, NLPCC 2019, Dunhuang, China, October 9-14, 2019, Proceedings, Part II. Lecture Notes in Computer Science 11839, Springer 2019, ISBN 978-3-030-32235-9 
 - Xin Zhang, An Yang, Sujian Li, Yizhong Wang:
 Machine Reading Comprehension: a Literature Review. CoRR abs/1907.01686 (2019)
-- Liang Wang, Wei Zhao, Ruoyu Jia, Sujian Li, Jingming Liu:
-Denoising based Sequence-to-Sequence Pre-training for Text Generation. CoRR abs/1908.08206 (2019)
-- Bowen Yu, Zhenyu Zhang, Jianlin Su, Yubin Wang, Tingwen Liu, Bin Wang, Sujian Li:
-Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy. CoRR abs/1909.04273 (2019)
-- Eric Wallace, Yizhong Wang, Sujian Li, Sameer Singh, Matt Gardner:
-Do NLP Models Know Numbers? Probing Numeracy in Embeddings. CoRR abs/1909.07940 (2019)
-- Lianzhe Huang, Dehong Ma, Sujian Li, Xiaodong Zhang, Houfeng Wang:
-Text Level Graph Neural Network for Text Classification. CoRR abs/1910.02356 (2019)
 - Tianyi Li, Sujian Li:
 Incorporating Textual Evidence in Visual Storytelling. CoRR abs/1911.09334 (2019)
 - Yi Cheng, Sujian Li:
