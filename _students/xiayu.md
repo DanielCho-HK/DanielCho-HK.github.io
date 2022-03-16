@@ -2,6 +2,6 @@
 name: Yu Xia
 role: Master
 email: 
-photo: profile.png
+photo: xiayu.jpg
 ---
 
