@@ -28,7 +28,7 @@ author_profile: true
 {{ stu }}
 {% endfor %}
 
-## Graduated Students
+## Alumni
 {% assign stus = site.students | where: 'role', 'Graduated' %}
 {% for stu in stus %}
 {{ stu }}
