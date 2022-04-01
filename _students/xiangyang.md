@@ -2,6 +2,7 @@
 name: Xiangyang Li
 role: Master
 email: 
-photo: profile.png
+photo: xiangyang.jpg
+grade: 3
 ---
 

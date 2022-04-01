@@ -11,19 +11,19 @@ author_profile: true
 
 {% include base_path %}
 ## Ph.D Students
-{% assign stus = site.students | where: 'role', 'Phd' %}
+{% assign stus = site.students | where: 'role', 'Phd' | sort: 'grade' | reverse %}
 {% for stu in stus %}
 {{ stu }}
 {% endfor %}
 
 ## Master Students
-{% assign stus = site.students | where: 'role', 'Master' %}
+{% assign stus = site.students | where: 'role', 'Master' | sort: 'grade' | reverse %}
 {% for stu in stus %}
 {{ stu }}
 {% endfor %}
 
 ## Undergraduate Students
-{% assign stus = site.students | where: 'role', 'Undergraduate' %}
+{% assign stus = site.students | where: 'role', 'Undergraduate' | sort: 'grade' | reverse %}
 {% for stu in stus %}
 {{ stu }}
 {% endfor %}
