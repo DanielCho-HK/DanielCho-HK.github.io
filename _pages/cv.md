@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2021.08-2021.12: Research Assistant
   * The Hong Kong Polytechnic University
   * Supervisor: Dr. [Tracy Mok](https://scholar.google.com.hk/citations?user=-83FFXcAAAAJ&hl=en)
 
