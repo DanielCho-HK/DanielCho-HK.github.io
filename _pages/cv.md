@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Information Engineering, The Hong Kong Polytechnic, 2022-2024
+* Ph.D in Computing, The Hong Kong Polytechnic, 2022-2024
 * M.S. in Communication and Information Systems, Xidian University, 2017-2020
 * B.S. in Communication Engineering, Qingdao Institute of Technology, 2013-2017
 
