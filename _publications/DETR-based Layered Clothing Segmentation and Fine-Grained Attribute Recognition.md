@@ -1,0 +1,9 @@
+---
+title: "DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition"
+collection: publications
+permalink: /publication/DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition
+date: 2023-07-09
+venue: 'IEEE Conference on Computer Vision and Pattern Recognition Workshops'
+paperurl: 'DanielCho-HK.github.io/files/attention_aware_anime_line_drawing_colorization.pdf'
+---
+
