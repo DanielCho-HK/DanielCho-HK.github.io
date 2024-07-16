@@ -4,7 +4,7 @@ collection: publications
 author: 'Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han'
 permalink: /publication/Deep fashion3d A dataset and benchmark for 3d garment reconstruction from single images
 year: 2020
-conference: 'European Conference on Computer Vision
+conference: 'European Conference on Computer Vision'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 
