@@ -16,7 +16,7 @@ Computer Graphics International Conference, 2024
 - Shadow-aware image colorization \\
 Xin Duan, *Yu Cao*, Renjie Zhang, Xin Wang, and Ping Li \\
 The Visual Computer, 2024
-- AnimeDiffusion: anime diffusion colorization \\
+- AnimeDiffusion: Anime Diffusion Colorization \\
 *Yu Cao*, Xiangqiao Meng, P. Y. Mok, Tong-Yee Lee, Xueting Liu and Ping Li \\
 IEEE Transactions on Visualization and Computer Graphics, 2024
 
