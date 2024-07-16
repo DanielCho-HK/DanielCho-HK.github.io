@@ -14,7 +14,7 @@ Education
 * Ph.D in Computing, The Hong Kong Polytechnic, 2022.01-2024.12
 * Visiting PhD, National Cheng Kung University, 2024.07-2024.12
 * M.S. in Communication and Information Systems, Xidian University, 2017.09-2020.06
-* * Visiting Matser, The Chinese University of Hong Kong, Shenzhen, 2019.03-2029.12
+* Visiting Matser, The Chinese University of Hong Kong, Shenzhen, 2019.03-2029.12
 * B.S. in Communication Engineering, Qingdao Institute of Technology, 2013.09-2017.06
 
 Work experience
