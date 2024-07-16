@@ -31,11 +31,7 @@ Work experience
   * Shenzhen Research Institute of Big Data
   * Supervisor: Dr. [Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN)
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 
 
