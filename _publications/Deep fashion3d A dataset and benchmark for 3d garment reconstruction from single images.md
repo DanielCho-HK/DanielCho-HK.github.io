@@ -2,7 +2,7 @@
 title: "Deep fashion3d: A dataset and benchmark for 3d garment reconstruction from single images"
 collection: publications
 author: 'Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, and Xiaoguang Han'
-permalink: /publication/Deep fashion3d: A dataset and benchmark for 3d garment reconstruction from single images
+permalink: /publication/Deep fashion3d A dataset and benchmark for 3d garment reconstruction from single images
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
