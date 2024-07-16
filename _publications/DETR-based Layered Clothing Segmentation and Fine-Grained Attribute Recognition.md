@@ -1,6 +1,5 @@
 ---
 title: "DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition"
-author: "Yu Cao"
 collection: publications
 permalink: /publication/DETR-based Layered Clothing Segmentation and Fine-Grained Attribute Recognition
 date: 2023-01-01
