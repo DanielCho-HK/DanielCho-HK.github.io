@@ -7,6 +7,9 @@ author_profile: true
 
 ---
 ## 2024
+- Animated Pictorial Maps \\
+Dong-Yi Wu, Li-Kuan Ou, HuiGuang Huang, **Yu Cao**, Thi-Ngoc-Hanh Le, Xin-Wei Lin, Sheng-Yi Yao, and Tong-Yee Lee \\
+ACM SIGGRAPH Asia Posters, 2024
 - Two-Stage Video Shadow Detection via Temporal-Spatial Adaption \\
 Xin Duan, **Yu Cao**, Lei Zhu, Gang Fu, Xin Wang, Renjie Zhang, and Ping Li \\
 European Conference on Computer Vision, 2024
