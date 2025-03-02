@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computing, The Hong Kong Polytechnic, 2022.01-2024.12
+* Ph.D in Computing, The Hong Kong Polytechnic University, 2022.01-2024.12
 * Visiting Ph.D. student, National Cheng Kung University, 2024.07-2024.12
 * M.Eng. in Communication and Information Systems, Xidian University, 2017.09-2020.06
 * Visiting Master student, The Chinese University of Hong Kong, Shenzhen, 2019.03-2029.12
