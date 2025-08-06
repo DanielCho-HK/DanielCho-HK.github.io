@@ -7,6 +7,9 @@ author_profile: true
 
 ---
 ## 2025
+- VRtalk: Real-time Interactive Intelligent Anime Avatars in Virtual Reality \\
+Yuan Yu, Chunlei Xu, Shirao Yang, **Yu Cao**, Yuyang Wang, and Boon Giin Lee. \\
+IEEE International Symposium on Mixed and Augmented Reality, 2025
 - Computer-aided Colorization State-of-the-science: A Survey \\
 **Yu Cao**, Xin Duan, Xiangqiao Meng, P. Y. Mok, Ping Li, and Tong-Yee Lee \\
 IEEE Transactions on Visualization and Computer Graphics, 2025
