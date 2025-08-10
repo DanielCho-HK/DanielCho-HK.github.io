@@ -7,8 +7,8 @@ author_profile: true
 
 ---
 ## 2025
-- View-Independent Wire Art Modeling via Manifold Learning \\
-HuiGuang, Huang, Dong-Yi Wu, Yulin Wang, \textbf{Yu Cao}, and Tong-Yee Lee. \\
+- View-Independent Wire Art Modeling via Manifold Fitting \\
+HuiGuang, Huang, Dong-Yi Wu, Yulin Wang, **Yu Cao**, and Tong-Yee Lee. \\
 Computer Graphics Forum, 2025
 - VRtalk: Real-time Interactive Intelligent Anime Avatars in Virtual Reality \\
 Yuan Yu, Chunlei Xu, Shirao Yang, **Yu Cao**, Yuyang Wang, and Boon Giin Lee. \\
