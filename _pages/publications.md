@@ -7,6 +7,9 @@ author_profile: true
 
 ---
 ## 2025
+- View-Independent Wire Art Modeling via Manifold Learning \\
+HuiGuang, Huang, Dong-Yi Wu, Yulin Wang, \textbf{Yu Cao}, and Tong-Yee Lee. \\
+Computer Graphics Forum, 2025
 - VRtalk: Real-time Interactive Intelligent Anime Avatars in Virtual Reality \\
 Yuan Yu, Chunlei Xu, Shirao Yang, **Yu Cao**, Yuyang Wang, and Boon Giin Lee. \\
 IEEE International Symposium on Mixed and Augmented Reality, 2025
@@ -23,7 +26,7 @@ Xin Duan, **Yu Cao**, Lei Zhu, Gang Fu, Xin Wang, Renjie Zhang, and Ping Li \\
 European Conference on Computer Vision, 2024
 - SewPCT: Sewing Pattern Reconstruction from Point Cloud with Transformer \\
 Hao Tian, **Yu Cao**, and P. Y. Mok \\
-Computer Graphics International Conference, 2024
+Computer Graphics International, 2024
 - Shadow-aware image colorization \\
 Xin Duan, **Yu Cao**, Renjie Zhang, Xin Wang, and Ping Li \\
 The Visual Computer, 2024
