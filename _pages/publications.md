@@ -7,6 +7,12 @@ author_profile: true
 
 ---
 ## 2025
+- AI-Powered Synthesis of 2.5D Traditional Chinese Paintings \\
+Xin-Wei~Lin, HuiGuang~Huang, Dong-Yi~Wu, Pin-Chieh~Lu, Sheng-Yi~Yao, **Yu~Cao**, and Tong-Yee~Lee. \\
+ACM SIGGRAPH Asia Posters, 2025
+- Creative Hair Style Generation and Editing \\
+Sheng-Yi~Yao, Dong-Yi~Wu, Qian-Hui~Lin, Yu-Hsuan~Kung, Ci-Huan~Huang, HuiGuang~Huang, Xin-Wei~Lin, **Yu~Cao**, and Tong-Yee~Lee. \\
+ACM SIGGRAPH Asia Posters, 2025
 - View-Independent Wire Art Modeling via Manifold Fitting \\
 HuiGuang, Huang, Dong-Yi Wu, Yulin Wang, **Yu Cao**, and Tong-Yee Lee. \\
 Computer Graphics Forum, 2025
